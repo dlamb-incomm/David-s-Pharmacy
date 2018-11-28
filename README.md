@@ -5,3 +5,6 @@ The pharmacy is requesting new code to be added to their website. They have a ne
 
 
 Company is running a special for 25% of all of its products when products are puchased with a gift card. 
+
+
+Also running online ads on store websites.
