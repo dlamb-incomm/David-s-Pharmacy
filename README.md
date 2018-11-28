@@ -1,2 +1,2 @@
-# David-s-Pharmacy
+# Davids Pharmacy
 New project for David's Pharmacy
